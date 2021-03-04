@@ -1,2 +1,3 @@
 # Two_Acitivities_project
- Creating activities for an android app that is executed by intents.
+#Mobile Development Course:
+ Creating activities for an android app that sends and receive messages within the application, which is executed by intents.
